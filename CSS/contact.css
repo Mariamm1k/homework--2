@@ -1,0 +1,36 @@
+header{
+    border-bottom: 1px solid black;
+}
+
+ul{
+    padding: 30px 480px;
+}
+
+li{   
+    display: inline;
+    margin-right: 65px;
+}
+
+a{
+    color: black;
+    font-weight: bold;
+}
+
+.contact-div{
+    padding: 100px 600px;
+
+}
+
+h3{
+    font-size: 30px;
+}
+
+.adress-container{
+    margin-left: 175px;
+    padding-top: -200px;
+}
+
+p{
+    padding: 26px;
+}
+

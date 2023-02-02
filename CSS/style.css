@@ -1,0 +1,42 @@
+
+header{
+    border-bottom: 1px solid black;
+}
+
+ul{
+    padding: 30px 480px;
+}
+
+li{   
+    display: inline;
+    margin-right: 65px;
+}
+
+a{
+    color: black;
+    font-weight: bold;
+}
+
+.content-container{
+    padding-left: 100px;
+    margin-top: 160px;
+}
+
+div{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 11px 11px  ;
+    margin-left: 26px;
+    width: 330px;
+
+}
+
+h5{
+    padding: 21px 26px;
+}
+
+p{
+    padding: 18px 26px;
+}
+
+

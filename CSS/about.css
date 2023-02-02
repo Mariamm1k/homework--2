@@ -1,0 +1,37 @@
+header{
+    border-bottom: 1px solid black;
+}
+
+ul{
+    padding: 30px 480px;
+}
+
+li{   
+    display: inline;
+    margin-right: 65px;
+}
+
+a{
+    color: black;
+    font-weight: bold;
+}
+
+.about-div{
+    padding: 100px 200px ;
+    margin: 100px;
+}
+h5{     
+    margin-left: 30%;
+    font-size: 40px; 
+    
+}
+
+p{
+    padding: 60px;
+    font-size: 25px;
+}
+
+address{
+    padding: 60px;
+    font-size: 25px;
+}
